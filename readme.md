@@ -17,4 +17,4 @@ This is a command-line based To-Do List Application built with Python. It allows
 4. Run the app using:
 
 ```bash
-python todo_app.py
+python app.py
