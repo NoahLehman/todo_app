@@ -1,5 +1,3 @@
-# todo_app.py
-
 def display_menu():
     """Display the main menu options."""
     print("\n====== TO-DO LIST MENU ======")
